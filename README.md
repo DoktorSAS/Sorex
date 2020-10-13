@@ -14,6 +14,13 @@ The project also consists in releasing to everyone some codes that offer feature
 - [OOC Chat with Rank Near Name](https://github.com/DoktorSAS/ooc-chat)
 
 #### Sorex Servers
+In the project there are also Sorex Servers, that is servers dedicated to players, in fact on Black ops II Plutonium and IW4X you can play on Sorex
+##### Black ops II
+- [Black ops II Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Trickshot%20Server.md)
+- [Black ops II Zombies Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Trickshot%20Server.md)
+
+##### IW4X
+- [IW4X Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Trickshot%20Server.md)
 
 ## Discord
 Community Discord is reaching 1000 users.For the project it is very important to know your opinion about this discord you can report bugs and present new ideas. The project is dedicated for the players and their opinion is very important
