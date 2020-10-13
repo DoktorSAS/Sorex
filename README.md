@@ -35,7 +35,7 @@ The project team is very competent, we are all young people with the desire to l
 | DoktorSAS      | Creator & Dev | DoktorSAS is the project leader, managing the community, the servers and their mods. | EU |
 | Ashton      | Manager        | Ashton is the owner of RagingModz who has chosen to join the Sorex Project. He takes care of the management of the zombies server and their reservations | USA |
 | williampilote | Manager        | williampilote is the owner of williampilote who has chosen to join the Sorex Project. He takes care of the management of the zombies server and their reservations | EU |
-| Skid | Manager & Dev        | Skid is the owner of Skid Servers who has chosen to join the Sorex Project. He takes care of the management of the Trickshot server and Mods | EU |
+| Skid | Manager & Dev        | Skid is the owner of Skid Servers who has chosen to join the Sorex Project. He takes care of the management of the Trickshot server and Mods | USA |
 
 ### Others Pages
 - [Black ops II Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Trickshot%20Server.md)
