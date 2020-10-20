@@ -39,7 +39,7 @@ Zombies servers are **dedicated to the community** *that loves the world of Zomb
 ### Master Rank
 | Feature | Description | 
 | :------------ |:-------------:| 
-| Earn Money Upgrade  | Instead of getting 150 points every 10/15 seconds you will get 350 |
+| Earn Money Upgrade  | Instead of getting 150 points every 10/15 seconds you will get 400 |
 | Ammo Regen Upgrade  | You will only need 5 kills to fill the ammunition of the weapon in your hand |
 | Extra point on spawn  | You will get +2500 points when spawn or respawn |
 | Perks Price Refound  | Every very time you buy a perk you will get 750 points back |
