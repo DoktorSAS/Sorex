@@ -17,7 +17,7 @@ The project also consists in releasing to everyone some codes that offer feature
 In the project there are also Sorex Servers, that is servers dedicated to players, in fact on Black ops II Plutonium and IW4X you can play on Sorex
 ##### Black ops II
 - [Black ops II Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Trickshot%20Server.md)
-- [Black ops II Zombies Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Trickshot%20Server.md)
+- [Black ops II Zombies Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Zombies.md)
 
 ##### IW4X
 - [IW4X Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Trickshot%20Server.md)
