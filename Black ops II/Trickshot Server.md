@@ -20,6 +20,7 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 | Fast Last 2 Pieces | 1.0 | Can use it | Can use it | Can use it | Can use it | 
 | Disable/Enable floater | 1.0 | Can use it | Can use it | Can use it | Can use it | 
 | \disableprint command | 1.0 | Can use it | Can use it | Can use it | Can use it | 
+| Change riotshiled boune power | 1.0 | Can use it | Can use it | Can use it | Can use it | 
 #### Slider Menu
 | Feature | Version | Users | VIP | VIP Gold | VIP Diamond |
 | :------------ |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
@@ -27,6 +28,12 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 | Preset Slider | 1.0 | Can use it | Can use it | Can use it | Can use it | 
 | Change High Power| 1.0 | Can use it with limit | Can use it with limit | Can use it | Can use it | 
 | Change Duration Power | 1.0 | Can use it with limit | Can use it with limit | Can use it | Can use it | 
+
+#### Crossbow Menu
+| Feature | Version | Users | VIP | VIP Gold | VIP Diamond |
+| :------------ |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+| Enable/Disable crossbow knockback | 1.0 | Can use it | Can use it | Can use it | Can use it | 
+| Change knock back | 1.0 | Can use it with limit | Can use it with limit | Can use it | Can use it | 
 
 #### Weapons Menu
 | Feature | Version | Users | VIP | VIP Gold | VIP Diamond |
@@ -45,6 +52,7 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 | :------------ |:---------------:|:---------------:|:---------------:|:---------------:|
 | Class Bind | 1.0 | Can use it  | Can use it | Can use it | 
 | Rocket Ride | 1.1 | Can use it  | Can use it | Can use it | 
+| Camos Menu | 1.0 | Can use it  | Can use it | Can use it | 
 | IPad Telepor | 1.0 | Can't use it  | Can use it | Can use it | 
 | UFO | 1.0 | Can't use it  | Can't use it | Can use it | 
 | Spawn/Move Platform | 1.0 | Can't use it  | Can't use it | Can use it | 
