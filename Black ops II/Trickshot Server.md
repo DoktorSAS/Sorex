@@ -39,13 +39,13 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 | Feature | Version | Users | VIP | VIP Gold | VIP Diamond |
 | :------------ |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 | Glicthed Pistols | 1.0 | Can use it | Can use it  | Can use it | Can use it | 
-| Glicthed Autoturret | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
-| CS:GO Knife | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
-| Ipad Glitch | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
-| Bomb Briefcase Glitch | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
-| Claymore Glitch | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
-| Give MiniGun | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
-| UAV Glitch | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
+| Glicthed Autoturret | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
+| CS:GO Knife | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
+| Ipad Glitch | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
+| Bomb Briefcase Glitch | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
+| Claymore Glitch | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
+| Give MiniGun | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
+| UAV Glitch | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
 
 #### VIP Uitilties 
 | Feature | Version | VIP | VIP Gold | VIP Diamond |
@@ -83,13 +83,13 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 | Feature | Version | Users | VIP | VIP Gold | VIP Diamond |
 | :------------ |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 | Glicthed Pistols | 1.0 | Can use it | Can use it  | Can use it | Can use it | 
-| Glicthed Autoturret | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
-| CS:GO Knife | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
-| Ipad Glitch | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
-| Bomb Briefcase Glitch | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
-| Claymore Glitch | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
-| Give MiniGun | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
-| UAV Glitch | 1.0 | Can*t use it | Can use it  | Can use it | Can use it | 
+| Glicthed Autoturret | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
+| CS:GO Knife | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
+| Ipad Glitch | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
+| Bomb Briefcase Glitch | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
+| Claymore Glitch | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
+| Give MiniGun | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
+| UAV Glitch | 1.0 | Can't use it | Can use it  | Can use it | Can use it | 
 
 ### VIP Uitilties 
 | Feature | Version | VIP | VIP Gold | VIP Diamond |
