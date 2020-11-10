@@ -16,6 +16,7 @@ Developer
 ### Trickshot FFA Features Planned
 
 | Feature  | Description |
+| :------------ |:---------------:|
 |Change Class Anytime | Allows players to change class anytime |
 
 ### Main Page
