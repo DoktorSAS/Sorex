@@ -36,6 +36,7 @@ The project team is very competent, we are all young people with the desire to l
 | Ashton      | Manager        | Ashton is the owner of RagingModz who has chosen to join the Sorex Project. He takes care of the management of the zombies server and their reservations | USA |
 | williampilote | Manager        | williampilote is the owner of williampilote who has chosen to join the Sorex Project. He takes care of the management of the zombies server and their reservations | EU |
 | Skid | Manager & Dev        | Skid is the owner of Skid Servers who has chosen to join the Sorex Project. He takes care of the management of the Trickshot server and Mods | USA |
-
+| juulia | Manager & Dev        | juulia is a girl with many skills that you are willing to help the Sorex Project to grow |
+| MrReeko | Manager & Dev        | juulia is a is a young man who has made his knowledge available to support the Sorex Project |
 ### Others Pages
 - [Black ops II Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Trickshot%20Server.md)
