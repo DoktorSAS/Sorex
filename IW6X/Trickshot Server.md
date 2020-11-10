@@ -10,6 +10,7 @@ Developer
 | :------------ |:---------------:|:---------------:|
 |Sniper Damage| 1.0 | Only sniper can make damage to the other players|
 |Rank Spoofing| 1.0 | Spoofs the level to level 60 Prestige 7 to look better|
+|Change Class Anytime| WIP | Allows players to change class anytime |
 |Elevators| FNL | Allows players to glide inside of a barrier similar to how Plutonium IW5 does elevators.|
 |Flips| FNL | Allows players to do frontflips and backflips using a provided patched binary|
 ### Main Page
