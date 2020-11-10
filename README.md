@@ -20,7 +20,7 @@ In the project there are also Sorex Servers, that is servers dedicated to player
 - [Black ops II Zombies Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Zombies.md)
 
 ##### IW4X
-- [IW4X Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Trickshot%20Server.md)
+- [IW4X Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/IW4X/Trickshot%20Server.md)
 
 ##### IW6X
 - [IW6X Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/IW6X/Trickshot%20Server.md)
