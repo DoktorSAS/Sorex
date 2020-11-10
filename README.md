@@ -23,7 +23,7 @@ In the project there are also Sorex Servers, that is servers dedicated to player
 - [IW4X Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Trickshot%20Server.md)
 
 ##### IW6X
-- [IW6X Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Trickshot%20Server.md)
+- [IW6X Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/IW6X/Trickshot%20Server.md)
 ## Discord
 Community Discord is reaching 1000 users.For the project it is very important to know your opinion about this discord you can report bugs and present new ideas. The project is dedicated for the players and their opinion is very important
 ##### Discord: [Press me to Join](https://discord.gg/nCP2y4J)
