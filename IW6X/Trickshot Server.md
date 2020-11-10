@@ -1,1 +1,14 @@
 # IW6X Trickshot Server
+[IW6X](https://github.com/XLabsProject/iw6x-client) is the Call Of Duty Ghost client, through this client you can play servers created and managed by the community. We have in our Trickshot Server. Behind the ghost servers there are two developers who work as much as possible to make the servers more and more beautiful. These two programmers are fantastic and talented. They are able to satisfy you and make you happy.
+
+Developer
+- [juulia](https://twitter.com/juuI_ia)
+- MrReeko
+
+### Trickshot FFA Features
+| Feature | Version | Description |
+| :------------ |:---------------:|:---------------:|
+|Sniper Damage| 1.0 | Only sniper can make damage to the other players|
+|Test|1.0| Desc of test|
+### Main Page
+- [Go Back](https://github.com/DoktorSAS/Sorex/blob/main/README.md)
