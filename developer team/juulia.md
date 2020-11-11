@@ -7,7 +7,7 @@ The only "special" thing i can say i've accomplished is reversing the fast file 
 
 ## Social
 
-<a href="https://twitter.com/juuI_ia"> <img src="https://i.imgur.com/rcPkXtU.png" width="50" high = "50"/> <a href="https://twitter.com/DoktorSAS"> <img src="https://i.imgur.com/xAANm7S.png" width="50" high = "50"/> </a><a href="https://twitter.com/DoktorSAS"> <img src="https://i.imgur.com/XlctxvH.png" width="50" high = "50"/> </a>
+<a href="https://www.twitch.tv/juiiya"> <img src="https://i.imgur.com/xAANm7S.png" width="50" high = "50"/> </a><a href="https://twitter.com/juuI_ia"> <img src="https://i.imgur.com/XlctxvH.png" width="50" high = "50"/> </a>
 
 ### Main Page
 - [Go Back](https://github.com/DoktorSAS/Sorex/blob/main/README.md)
