@@ -4,7 +4,7 @@ I am the Creator of the Sorex Project, a project dedicated to the community in g
 
 ## Social
 
-<a href="https://twitter.com/DoktorSAS"> <img src="https://e7.pngegg.com/pngimages/751/936/png-clipart-twitch-logo-twitch-computer-icons-streaming-media-logo-style-purple-blue-thumbnail.png" width="50" high = "50"/> </a><a href="https://twitter.com/DoktorSAS"> <img src="https://i.imgur.com/XlctxvH.png" width="50" high = "50"/> </a>
+<a href="https://twitter.com/DoktorSAS"> <img src="https://i.imgur.com/xAANm7S.png" width="50" high = "50"/> </a><a href="https://twitter.com/DoktorSAS"> <img src="https://i.imgur.com/XlctxvH.png" width="50" high = "50"/> </a>
 
 ### Main Page
 - [Go Back](https://github.com/DoktorSAS/Sorex/blob/main/README.md)
