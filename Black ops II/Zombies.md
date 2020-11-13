@@ -20,6 +20,13 @@ Zombies servers are **dedicated to the community** *that loves the world of Zomb
 | Second Life | 1.0 | When you die in coop mode you will be respawned automatically. If you play in respawn only thanks to the effect of quickrevive. In fact the perk will also give you the quickrevive senon you own it |
 | Unlimited Sprint | 1.0 | You can run forever if you do not suffer any damage. The moment you take damage you will stop running. |
 
+### Easter Egg
+
+##### Buried Hint
+1. Jesus like wine
+2. Don't be judge
+3. There a mule under the bed
+
 
 # Server Rank Upgrade
 
