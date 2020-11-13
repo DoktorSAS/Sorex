@@ -8,6 +8,7 @@ Developer
 ### Trickshot FFA Features
 | Feature | Version | Description |
 | :------------ |:---------------:|:---------------:|
+|Score set to 10| 1.0 | The game end when a player reach 10 Kills|
 |Sniper Damage| 1.0 | Only sniper can make damage to the other players|
 |Rank Spoofing| 1.0 | Spoofs the level to level 60 Prestige 7 to look better|
 |Elevators| Final | Allows players to glide inside of a barrier similar to how Plutonium IW5 does elevators.|
