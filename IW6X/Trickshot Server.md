@@ -20,7 +20,11 @@ Developer
 | :------------ |:---------------:|
 |Change Class Anytime | Allows players to change class anytime |
 |sucide command | Allows players to sucide |
+|drop command | Allows players to drop their gun or drop canswap |
+|giveammo command | Allows players to get ammo |
+|killstreak | Allows players to get killstreaks |
 |setspawn | Allows players to setspawn position |
+
 
 ### Main Page
 - [Go Back](https://github.com/DoktorSAS/Sorex/blob/main/README.md)
