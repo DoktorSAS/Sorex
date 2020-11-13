@@ -18,6 +18,8 @@ Developer
 | Feature  | Description |
 | :------------ |:---------------:|
 |Change Class Anytime | Allows players to change class anytime |
+|sucide command | Allows players to sucide |
+|setspawn | Allows players to setspawn position |
 
 ### Main Page
 - [Go Back](https://github.com/DoktorSAS/Sorex/blob/main/README.md)
