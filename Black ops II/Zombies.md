@@ -9,7 +9,7 @@ Zombies servers are **dedicated to the community** *that loves the world of Zomb
 | Unlimited Perks | 1.0 | you can have all perks, there are no limits for perks |
 | Pack a Punch in farm | 1.0 | I added the punch pack on the farm map |
 | Easter Egg | 2.0 | To make this Easter Egg simply find the 4 bottles hidden in the map. Once you get all 4 you will unlock the php dive |
-| Luck Machine | 1.0 | The Luck Machine is a machine that sells for 1500 extra stuff randomly. You can be lucky and get something useful or you can be unlucky and lose something. ( At the moment it is not active, I am working to redo it ) |
+| Luck Machine | 2.0 | The Luck Machine is a machine that sells for 1500 extra stuff randomly. You can be lucky and get something useful or you can be unlucky and lose something |
 
 ### Custom Perks
 | Perk Name | Version | Description |
