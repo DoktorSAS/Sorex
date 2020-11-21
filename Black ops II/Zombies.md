@@ -27,6 +27,9 @@ Zombies servers are **dedicated to the community** *that loves the world of Zomb
 2. Don't be judge
 3. There a mule under the bed
 
+##### Mov of the Dead Hint
+1. You should try more than 100 rounds
+2. Not so comfortable, but at least it works
 
 # Server Rank Upgrade
 
