@@ -13,6 +13,7 @@ Developer
 |Rank Spoofing| 1.0 | Spoofs the level to level 60 Prestige 7 to look better|
 |Elevators| Final | Allows players to glide inside of a barrier similar to how Plutonium IW5 does elevators.|
 |Flips| Final | Allows players to do frontflips and backflips using a provided patched binary|
+|setspawn | 1.0 | Allows players to setspawn position |
 
 ### Trickshot FFA Features Planned
 
@@ -23,7 +24,7 @@ Developer
 |drop command | Allows players to drop their gun or drop canswap |
 |giveammo command | Allows players to get ammo |
 |killstreak | Allows players to get killstreaks |
-|setspawn | Allows players to setspawn position |
+
 
 
 ### Main Page
