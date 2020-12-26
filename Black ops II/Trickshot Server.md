@@ -2,11 +2,9 @@
 The **Sorex Project** *is nothing more than a project aimed at the entire community of players. In fact, the Sorex Project is a project that aims to meet the needs of the community of players*. 
 Trickshot servers are **dedicated to the community** *that loves the world of sniping and trickshoting. In fact on Black op II Plutonium platform you can find Sorex Servers dedicated to* **Sniping** and **Trickshotting**.
 
-# Trickshot Azza Servers
-##### What are Azza servers and what does Azza mean?
-**Azza** *servers are nothing but servers where you can try* **any kind of trickshot without any limits**. *This means that in Azza servers* **I can add all the things that normally are not possible to do**, such as **sliders** and **RPG Ride**. I chose to call them **Azza** for the **Loz Azza menu**. *Everyone used this menu to try trickshot in private match. Azza does* **not want** to imply that you can use **cheat** or **Explosive Bullets**. In fact whoever is or will **be caught using** cheat **will be banned permanently** *by the servers. The servers have been created* **to allow players to make more trickshots** *and it is not necessary to use cheats. The servers have* **18 places for players**, *hitting on an 18 server is much easier than hitting on an 8 server*.
+# Trickshot Custom Servers
 
-### Azza Servers Features 
+### Custom Servers Features 
 #### Trickshot Utilities
 | Feature | Version | Users | VIP | VIP Gold | VIP Diamond |
 | :------------ |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
@@ -115,6 +113,7 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 | \random dsr command | 1.0 | Get Random DSR Trickshot Class |Can use it | Can use it  | Can use it | Can use it | 
 | \random svu command | 1.0 | Get Random SVU Trickshot Class |Can use it | Can use it  | Can use it | Can use it | 
 | \random xpr command | 1.0 | Get Random XPR Trickshot Class |Can use it | Can use it  | Can use it | Can use it | 
+| \floater command | 1.0 | Disable floater | Can use it | Can use it  | Can use it | Can use it | 
 | \random ballista command | 1.0 | Get Random Ballista Trickshot Class |Can use it | Can use it  | Can use it | Can use it |
 | \teleport or \tp command | 1.0 | Usa ipad to teleport around the map |Can't use it | Can use it  | Can use it | Can use it | 
 | \plant command | 1.0 | Plant the bomb without having bomb even if you are not close to the bomb | Can't use it | Can use it  | Can use it | Can use it | 
