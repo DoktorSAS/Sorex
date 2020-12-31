@@ -9,6 +9,7 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 | Feature | Version | Users | VIP | VIP Gold | VIP Diamond |
 | :------------ |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 | Give Killstreaks | 1.0 | Can use it | Can use it | Can use it | Can use it |
+| Rocket Ride | 1.1 | Can use it  | Can use it | Can use it | Can use it | 
 | Save & Load | 2.0 | Can use it | Can use it | Can use it | Can use it |
 | Drop Random Weapon | 1.0 | Can use it | Can use it | Can use it | Can use it |
 | Drop Canswap | 1.0 | Can use it | Can use it | Can use it | Can use it |
@@ -49,7 +50,6 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 | Feature | Version | VIP | VIP Gold | VIP Diamond |
 | :------------ |:---------------:|:---------------:|:---------------:|:---------------:|
 | Class Bind | 1.0 | Can use it  | Can use it | Can use it | 
-| Rocket Ride | 1.1 | Can use it  | Can use it | Can use it | 
 | Camos Menu | 1.0 | Can use it  | Can use it | Can use it | 
 | IPad Telepor | 1.0 | Can't use it  | Can use it | Can use it | 
 | UFO | 1.0 | Can't use it  | Can't use it | Can use it | 
@@ -94,7 +94,6 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 | :------------ |:---------------:|:---------------:|:---------------:|:---------------:|
 | Save & Load | 2.0 | Can use it | Can use it | Can use it | Can use it |
 | Class Bind | 1.0 | Can use it  | Can use it | Can use it | 
-| Rocket Ride | 1.1 | Can use it  | Can use it | Can use it | 
 | IPad Telepor | 1.0 | Can't use it  | Can use it | Can use it | 
 | UFO | 1.0 | Can't use it  | Can't use it | Can use it | 
 | Spawn/Move Platform | 1.0 | Can't use it  | Can't use it | Can use it | 
