@@ -13,6 +13,9 @@ The project also consists in releasing to everyone some codes that offer feature
 - [Disable NPC/Cars Weapons Drop and Give](https://github.com/DoktorSAS/FiveM-WeaponsOFF)
 - [OOC Chat with Rank Near Name](https://github.com/DoktorSAS/ooc-chat)
 
+##### IW6X
+- [IW6X Scripting Guide](https://github.com/DoktorSAS/IW6X-Scripting-Guide/wiki)
+
 #### Sorex Servers
 In the project there are also Sorex Servers, that is servers dedicated to players, in fact on Black ops II Plutonium and IW4X you can play on Sorex
 ##### Black ops II
