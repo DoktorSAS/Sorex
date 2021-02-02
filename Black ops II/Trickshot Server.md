@@ -51,12 +51,13 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 | :------------ |:---------------:|:---------------:|:---------------:|:---------------:|
 | Class Bind | 1.0 | Can use it  | Can use it | Can use it | 
 | Camos Menu | 1.0 | Can use it  | Can use it | Can use it | 
+| Gun Animations | 1.0 | Can use it  | Can use it | Can use it | 
 | IPad Telepor | 1.0 | Can't use it  | Can use it | Can use it | 
 | UFO | 1.0 | Can't use it  | Can't use it | Can use it | 
 | Spawn/Move Platform | 1.0 | Can't use it  | Can't use it | Can use it | 
 | Camo Menu | 1.0 | Can't use it  | Can't use it | Can use it | 
-| Sawn/Move Personal Bot | 2.0 | Can't use it  | Can use it | Can use it | 
-| Kick Personal Bot | 1.0 | Can't use it  | Can't use it | Can use it | 
+| Sawn/Move/Kick Personal Bot | 2.0 | Can't use it  | Can use it | Can use it | 
+| Respawn on Saved Position | 1.0 | Can use it | Can use it | Can use it |
 
 # Trickshot Vanilla Servers
 **Vanilla** servers are **simple** trickshot servers. The goal of **Vanill** servers is to make **normal clips**, without unnecessary additions. In fact they are servers where it is **not possible** to use **sldiers** or anything else that  are not necessary.
@@ -65,6 +66,7 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 #### Trickshot Utilities
 | Feature | Version | Users | VIP | VIP Gold | VIP Diamond |
 | :------------ |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+| \last command | 1.0 | Can't use it | Can use it | Can use it | Can use it |
 | Give Killstreaks | 1.0 | Can use it | Can use it | Can use it | Can use it |
 | Drop Random Weapon | 1.0 | Can use it | Can use it | Can use it | Can use it |
 | Drop Canswap | 1.0 | Can use it | Can use it | Can use it | Can use it |
@@ -75,6 +77,7 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 | Disable/Enable floater | 1.0 | Can use it | Can use it | Can use it | Can use it | 
 | \disableprint command | 1.0 | Can use it | Can use it | Can use it | Can use it | 
 | Save & Load | 2.0 | Can't use it | Can use it | Can use it | Can use it |
+| Respawn on Saved Position | 1.0 | Can't use it | Can use it | Can use it | Can use it |
 
 ### Weapons Menu
 
@@ -118,9 +121,9 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 | \plant command | 1.0 | Plant the bomb without having bomb even if you are not close to the bomb | Can't use it | Can use it  | Can use it | Can use it | 
 | \defuse command | 1.0 | Defuse the bomb without having bomb even if you are not close to the bomb | Can't use it | Can use it  | Can use it | Can use it | 
 | \addtime command | 1.0 | Add 1mn to the timer, is possible to add max 3mn | Can't use it | Can't use it  | Can use it | Can use it | 
-| \revive command | 1.0 | Revive when you die, is possibile to revive 1 time for round | Can't use it | Can't use it  | Can use it | Can use it | 
 | \movebot command | 1.0 | Move the bot to the crosshair | Can't use it | Can't use it  | Can't use it | Can use it | 
 | \freeze command | 1.0 | Freeze the bot | Can't use it | Can't use it  | Can use it | Can't use it | 
+| Seconf life | 1.0 | Revive when you die, is possibile to revive 1 time for round | Can't use it | Can't use it  | Can use it | Can use it | 
 
 
 ### Main Page
