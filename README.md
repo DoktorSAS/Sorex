@@ -18,19 +18,24 @@ The project also consists in releasing to everyone some codes that offer feature
 
 #### Sorex Servers
 In the project there are also Sorex Servers, that is servers dedicated to players, in fact on Black ops II Plutonium and IW4X you can play on Sorex
-##### Black ops II
+##### COD: Black ops II T6
 - [Black ops II Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Trickshot%20Server.md)
 - [Black ops II Zombies Servers](https://github.com/DoktorSAS/Sorex/blob/main/Black%20ops%20II/Zombies.md)
 
-##### IW4X
+##### COD: Modern Warfare II IW4X
 - [IW4X Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/IW4X/Trickshot%20Server.md)
 
+##### COD: World at War T4
+- [IW6X Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/T4/Trickshot%20Server.md)
+
 ##### IW6X
-- [IW6X Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/IW6X/Trickshot%20Server.md)
+- [T4 Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/IW6X/Trickshot%20Server.md)
 ## Discord
 Community Discord is reaching 1000 users.For the project it is very important to know your opinion about this discord you can report bugs and present new ideas. The project is dedicated for the players and their opinion is very important
 ##### Discord: [Press me to Join](https://discord.gg/nCP2y4J)
 ![Discord](https://imgur.com/aPGv8FN.png)
+
+https://github.com/DoktorSAS/Sorex/blob/main/T4/Trickshot%20Server.md
 
 # Sorex Team
 The project team is very competent, we are all young people with the desire to learn and to test ourselves.
