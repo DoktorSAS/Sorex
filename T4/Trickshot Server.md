@@ -21,9 +21,9 @@ are two developers who work as much as possible to make the servers more and mor
 ### Trickshot Servers VIP Features
 | Feature | Version | Description |
 | :------------ |:---------------:|:---------------:|
-|fastlast | 1.0 | Allows players reach last instant |
-|setspawn | 1.0 | Allows players to set spawn position |
-|clearspawn | 1.0 | Allows players to clear spawn position |
+|Fastlast | 1.0 | Allows players reach last instant |
+|Set Spawn | 1.0 | Allows players to set spawn position |
+|Clear Spawn | 1.0 | Allows players to clear spawn position |
 
 ### Main Page
 - [Go Back](https://github.com/DoktorSAS/Sorex/blob/main/README.md)
