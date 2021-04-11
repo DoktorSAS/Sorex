@@ -1,4 +1,4 @@
-# IW6X Trickshot Server
+# COD: World At War T4 Trickshot Server
 [T4](https://forum.plutonium.pw/topic/6970/plutonium-world-at-war-readme) is the Call Of Duty World at War client, through this 
 client you can play servers created and managed by the community. We have in our Trickshot Server. Behind the T4 servers there 
 are two developers who work as much as possible to make the servers more and more beautiful. 
