@@ -31,8 +31,8 @@ In the project there are also Sorex Servers, that is servers dedicated to player
 ##### IW6X
 - [IW6X Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/IW6X/Trickshot%20Server.md)
 
-##### IW6X
-- [S1X](https://github.com/DoktorSAS/Sorex/blob/main/S1/README.md)
+##### S1X
+- [S1X Trickshot Servers](https://github.com/DoktorSAS/Sorex/blob/main/S1/Trickshot%20Server.md#trickshot-servers-vip-features)
 
 ## Discord
 Community Discord is reaching 1000 users.For the project it is very important to know your opinion about this discord you can report bugs and present new ideas. The project is dedicated for the players and their opinion is very important
