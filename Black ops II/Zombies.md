@@ -39,7 +39,7 @@ Zombies servers are **dedicated to the community** *that loves the world of Zomb
 | :------------ |:-------------:| 
 | Earn Money Upgrade  | Instead of getting 100 points every 10/15 seconds you will get 250(120) |
 | Ammo Regen Upgrade  | You will only need 10 kills to fill the ammunition of the weapon in your hand |
-| Extra point on spawn  | You will get +1000 points when spawn or respawn |
+| Extra point on spawn  | You will get +1000(500) points when spawn or respawn |
 | Perks Price Refound  | Every time you buy a perk you will get 250 points back |
 
 ### Pro Rank
@@ -47,7 +47,7 @@ Zombies servers are **dedicated to the community** *that loves the world of Zomb
 | :------------ |:-------------:| 
 | Earn Money Upgrade  | Instead of getting 100 points every 10/15 seconds you will get 350(150) |
 | Ammo Regen Upgrade  | You will only need 8 kills to fill the ammunition of the weapon in your hand |
-| Extra point on spawn  | You will get +1500 points when spawn or respawn |
+| Extra point on spawn  | You will get +1500(750) points when spawn or respawn |
 | Perks Price Refound  | Every very time you buy a perk you will get 500 points back |
 
 ### Master Rank
@@ -55,7 +55,7 @@ Zombies servers are **dedicated to the community** *that loves the world of Zomb
 | :------------ |:-------------:| 
 | Earn Money Upgrade  | Instead of getting 100 points every 10/15 seconds you will get 400(175) |
 | Ammo Regen Upgrade  | You will only need 5 kills to fill the ammunition of the weapon in your hand |
-| Extra point on spawn  | You will get +2000 points when spawn or respawn |
+| Extra point on spawn  | You will get +2000(1000) points when spawn or respawn |
 | Perks Price Refound  | Every very time you buy a perk you will get 750 points back |
 
 ### Main Page
