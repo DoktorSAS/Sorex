@@ -38,7 +38,7 @@ Zombies servers are **dedicated to the community** *that loves the world of Zomb
 | Feature | Description | 
 | :------------ |:-------------:| 
 | Earn Money Upgrade  | Instead of getting 100 points every 15 seconds you will get 120 |
-| Ammo Regen Upgrade  | You will only need 10 kills to fill the ammunition of the weapon in your hand |
+| Ammo Regen Upgrade  | You will only need 15 kills to fill the ammunition of the weapon in your hand |
 | Extra point on spawn  | You will get 10% points when spawn or respawn |
 | Perks Price Refound  | Every time you buy a perk you will get 10% points back |
 
