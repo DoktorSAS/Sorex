@@ -122,7 +122,7 @@ Trickshot servers are **dedicated to the community** *that loves the world of sn
 | \defuse command | 1.0 | Defuse the bomb without having bomb even if you are not close to the bomb | Can't use it | Can use it  | Can use it | Can use it | 
 | \addtime command | 1.0 | Add 1mn to the timer, is possible to add max 3mn | Can't use it | Can't use it  | Can use it | Can use it | 
 | \movebot command | 1.0 | Move the bot to the crosshair | Can't use it | Can't use it  | Can't use it | Can use it | 
-| \freeze command | 1.0 | Freeze the bot | Can't use it | Can't use it  | Can use it | Can't use it | 
+| \freeze command | 1.0 | Freeze the bot | Can't use it | Can't use it  | Can use it | Can use it | 
 | Seconf life | 1.0 | Revive when you die, is possibile to revive 1 time for round | Can't use it | Can't use it  | Can use it | Can use it | 
 
 
