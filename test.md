@@ -22,7 +22,7 @@ The list tells you what you have access to but you can also ask to deactivate a 
 ![](https://wallpaperaccess.com/full/2334886.jpg)
 
 ### Multiplayer
-The multiplayer servers are operated by DoktorSAS and NOXIS. NOXIS takes care of the management of the virtual machine and can be contacted in case of problems. The main reference for both Mods and Servers is DoktorSAS, in fact it is he who takes care of the servers.
+The multiplayer servers are operated by **`DoktorSAS#1141`** and  **`NOXSYS#0001`**. **`NOXSYS#0001`**takes care of the management of the virtual machine and can be contacted in case of problems. The main reference for both Mods and Servers is **`DoktorSAS#1141`**, in fact it is he who takes care of the servers.
 
 #### Prices
 
