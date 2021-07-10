@@ -22,7 +22,7 @@ The list tells you what you have access to but you can also ask to deactivate a 
 ![](https://wallpaperaccess.com/full/2334886.jpg)
 
 ### Multiplayer
-The multiplayer servers are operated by **`DoktorSAS#1141`** and  **`NOXSYS#0001`**. **`NOXSYS#0001`**takes care of the management of the virtual machine and can be contacted in case of problems. The main reference for both Mods and Servers is **`DoktorSAS#1141`**, in fact it is he who takes care of the servers.
+The multiplayer servers are operated by **`DoktorSAS#1141`** and  **`NOXSYS#0001`**. **`NOXSYS#0001`** takes care of the management of the virtual machine and can be contacted in case of problems. The main reference for both Mods and Servers is **`DoktorSAS#1141`**, in fact it is he who takes care of the servers.
 
 #### Prices
 
@@ -33,4 +33,5 @@ In fact, it is possible to obtain servers with more or less features depending o
 Only the Multiplayer service is available in World At War. In fact zombies servers cannot have features that other servers do not have. Unfortunately, World at War has not been very successful among the community. The services for this client are limited to trickshot servers only. 
 
 ![](https://wallpaperaccess.com/full/2334886.jpg)
+
 
